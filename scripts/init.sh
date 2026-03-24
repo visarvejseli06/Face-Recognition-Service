@@ -8,7 +8,7 @@ echo "🚀 Starte AWS Face Recognition Setup..."
 echo "=========================================="
 
 # 1. Variablen definieren 
-INITIALS="BucketViSaCh" 
+INITIALS="visach" 
 IN_BUCKET="mod346-in-bucket-$INITIALS"
 OUT_BUCKET="mod346-out-bucket-$INITIALS"
 ROLE_NAME="mod346-lambda-role-$INITIALS"
