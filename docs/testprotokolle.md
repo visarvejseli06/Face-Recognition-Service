@@ -2,7 +2,7 @@
  
 **Allgemeine Testinformationen:**
 * **Testdatum:** 24. März 2026
-* **Testperson:** [Name von Kollege 2 eintragen]
+* **Testperson:** Christopher Rossi
 * **Testumgebung:** AWS Learner-Lab (us-east-1), Ausführung via Linux-VM (Ubuntu 22.04)
  
 ---
