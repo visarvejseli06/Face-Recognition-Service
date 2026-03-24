@@ -1,6 +1,6 @@
 """
-Autor: [Sasa Radovanovic]
-Datum: [24.03.2026]
+Autor: Sasa Radovanovic
+Datum: 24.03.2026
 Quelle 1 (Aufgabenstellung): https://docs.aws.amazon.com/rekognition/latest/dg/celebrities.html
 Quelle 2 (Boto3 S3): https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/s3.html
  
