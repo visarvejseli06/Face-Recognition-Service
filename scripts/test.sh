@@ -8,7 +8,7 @@
  
 
 
-INITIALS="BucketViSaCh" 
+INITIALS="visach" 
 
 IN_BUCKET="mod346-in-bucket-$INITIALS"
 
