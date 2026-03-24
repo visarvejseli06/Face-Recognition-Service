@@ -12,7 +12,7 @@ und speichert die detaillierte JSON-Antwort anschliessend im S3 Out-Bucket ab.
  
 import json
 import urllib.parse
-import boto3
+import boto3 # type: ignore
 import os
  
 # AWS Clients für S3 und Rekognition initialisieren
